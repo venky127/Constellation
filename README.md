@@ -1,2 +1,1 @@
-# DX_Components
-Constellation DX Components
+# Pega Constellation DX_Components
